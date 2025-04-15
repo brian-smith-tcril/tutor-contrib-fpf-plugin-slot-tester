@@ -1,0 +1,2 @@
+recursive-include tutorfpf_plugin_slot_tester/patches *
+recursive-include tutorfpf_plugin_slot_tester/templates *
